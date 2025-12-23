@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2025-12-23
+
+### 🚀 Core Framework Engine
+- **Standardized Scoring**: Normalized all audit workflows to a 100-point scale for consistency.
+- **Enhanced Gate-keeping**: Adjusted PRD quality gate to 85/100 to ensure high-quality upstream input.
+- **Refined Prompts**: Abstracted NFR and Anti-NIH standards for better framework-workspace decoupling.
+
+### 🛠️ Developer Experience
+- **AI Context Optimzation**: Added high-density `GEMINI.md` for better Agentic context comprehension.
+- **Glossary Added**: Integrated framework-specific terminology to lower entry barriers.
+- **UI/UX Refinement**: Improved README with Mermaid diagrams and visual cues (Emojis).
+
 ## [0.1.0] - 2025-12-23
 
 ### 🚀 Core Framework Engine

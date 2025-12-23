@@ -92,6 +92,7 @@ graph TD
     *   **Veteran Persona**: 模拟 15+ 年架构经验的严苛评审视角。
     *   **Anti-NIH**: 强制执行“不造轮子”准则，优先复用工业级组件。
     *   **Hardcore NFRs**: 预定义租户隔离、PII 脱敏、幂等性等非功能性标准。
+    *   **Execution Standards**: 强制执行“拒绝空话”、定量化描述、中英混排规范及追溯性要求。
 *   **📜 Templates** (`templates/`)
     *   提供符合 **Spec-Driven Engineering** 范式的标准 Markdown 架构。
 
