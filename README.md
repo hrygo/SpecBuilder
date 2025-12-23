@@ -3,6 +3,7 @@
 
 [![Spec-Driven Development](https://img.shields.io/badge/Paradigm-Spec--Driven-blueviolet)](./docs/PRD_Spec_Builder.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Powered by SparkForge](https://img.shields.io/badge/Powered%20by-SparkForge-orange)](https://github.com/hrygo/SparkForge)
 
 > **🚀 一个基于 Agentic Workflows 的元架构框架，实现“从需求到规格”的全自动生产闭环。**
 
@@ -122,6 +123,13 @@ graph TD
 | **`prompt/`**    | **Policy**    | 框架强制执行的技术审美与非功能标准 |
 | **`docs/`**      | **Workspace** | **用户工作空间**，产出物存放地     |
 | **`templates/`** | **Blueprint** | 规格生成的标准骨架                 |
+
+---
+
+## ⚡ 强力驱动 (Powered By)
+
+本框架由 **[SparkForge 2.0](https://github.com/hrygo/SparkForge)** 强力驱动。
+> **SparkForge** 是一个 AI 原生决策与执行规划引擎，通过对抗式 AI (Adversarial AI) 与外科手术级精度，将挥发的原始创意锻造成工业级的执行方案。
 
 ---
 
